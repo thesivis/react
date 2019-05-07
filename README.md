@@ -3,8 +3,8 @@
 
 ###Installing
 ```
+sudo apt-get install npm
 cd <PATH>
-npm install --save react react-dom
-npm init
-npm install --save-dev webpack
+sudo npm install -g create-react-app
+create-react-app <NAME>
 ```
