@@ -1,7 +1,7 @@
 ## React
 
 ```
-sudo npm install -g create-react-app create-react-ap
+sudo npm install -g create-react-app react-scripts popper.js
 cd helloreact
 npm cache clean
 npm install
